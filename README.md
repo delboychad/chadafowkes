@@ -2,6 +2,6 @@
 
 My name is Chad I am a freelance developer from The United Kingdom.
 
-You can contact me by email(chad@chadf.co.uk) and/or Discord(Chad#8725).
+Feel free to glance over my work and even create issues detailing an issues you find with my work.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cfowkes&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
