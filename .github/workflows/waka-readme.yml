@@ -10,8 +10,7 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    - cron: '16 06 * * *'
 
 jobs:
   update-readme:
