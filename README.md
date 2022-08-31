@@ -1,10 +1,3 @@
-### 👋 Hello There!
-
-My name is Chad I am a freelance developer from Derbyshire, United Kingdom.
-
-Feel free to glance over my work and even create issues detailing an issues you find with my work.
- 
- 
 <h2 align="center">👋 Hello! I'm Chad.</h2>
 <p align="center">
   <a href="https://chadfowkes.co.uk">Website</a> •
