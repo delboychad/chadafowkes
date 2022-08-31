@@ -10,7 +10,7 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    - cron: '16 06 * * *'
+    - cron: '17 05 * * *'
 
 jobs:
   update-readme:
