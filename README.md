@@ -19,7 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   21 mins         ██████████████████████▓░░   90.72 %
+Text     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
 ```
 
 <!--END_SECTION:waka-->
